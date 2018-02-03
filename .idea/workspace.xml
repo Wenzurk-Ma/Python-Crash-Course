@@ -2,10 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1fbd65f4-ae51-4db3-89c3-e2b755bb500b" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/Python Crash Course.iml" afterPath="$PROJECT_DIR$/.idea/Python Crash Course.iml" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Chapter 03/bicycle.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Chapter 03/note.txt" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/Chapter One/helloworld.py" afterPath="$PROJECT_DIR$/Chapter 01/helloworld.py" />
+      <change beforePath="$PROJECT_DIR$/Chapter One/note.txt" afterPath="$PROJECT_DIR$/Chapter 01/note.txt" />
+      <change beforePath="$PROJECT_DIR$/Chapter Two/apostrophe.py" afterPath="$PROJECT_DIR$/Chapter 02/apostrophe.py" />
+      <change beforePath="$PROJECT_DIR$/Chapter Two/birthday.py" afterPath="$PROJECT_DIR$/Chapter 02/birthday.py" />
+      <change beforePath="$PROJECT_DIR$/Chapter Two/blank.py" afterPath="$PROJECT_DIR$/Chapter 02/blank.py" />
+      <change beforePath="$PROJECT_DIR$/Chapter Two/comment.py" afterPath="$PROJECT_DIR$/Chapter 02/comment.py" />
+      <change beforePath="$PROJECT_DIR$/Chapter Two/delete_blank.py" afterPath="$PROJECT_DIR$/Chapter 02/delete_blank.py" />
+      <change beforePath="$PROJECT_DIR$/Chapter Two/favorite_number.py" afterPath="$PROJECT_DIR$/Chapter 02/favorite_number.py" />
+      <change beforePath="$PROJECT_DIR$/Chapter Two/hello_world.py" afterPath="$PROJECT_DIR$/Chapter 02/hello_world.py" />
+      <change beforePath="$PROJECT_DIR$/Chapter Two/name.py" afterPath="$PROJECT_DIR$/Chapter 02/name.py" />
+      <change beforePath="$PROJECT_DIR$/Chapter Two/note.txt" afterPath="$PROJECT_DIR$/Chapter 02/note.txt" />
+      <change beforePath="$PROJECT_DIR$/Chapter Two/operation.py" afterPath="$PROJECT_DIR$/Chapter 02/operation.py" />
+      <change beforePath="$PROJECT_DIR$/Chapter Two/personal.py" afterPath="$PROJECT_DIR$/Chapter 02/personal.py" />
+      <change beforePath="$PROJECT_DIR$/Chapter Two/said.py" afterPath="$PROJECT_DIR$/Chapter 02/said.py" />
+      <change beforePath="$PROJECT_DIR$/Chapter Two/simple_message.py" afterPath="$PROJECT_DIR$/Chapter 02/simple_message.py" />
+      <change beforePath="$PROJECT_DIR$/Chapter Two/simple_messages.py" afterPath="$PROJECT_DIR$/Chapter 02/simple_messages.py" />
+      <change beforePath="$PROJECT_DIR$/Chapter Two/this.py" afterPath="$PROJECT_DIR$/Chapter 02/this.py" />
+      <change beforePath="$PROJECT_DIR$/Chapter Two/up-low.py" afterPath="$PROJECT_DIR$/Chapter 02/up-low.py" />
+      <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,10 +35,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="note.txt" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Chapter Two/note.txt">
+        <entry file="file://$PROJECT_DIR$/Chapter 03/note.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="208">
-              <caret line="11" column="8" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+            <state relative-caret-position="562">
+              <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -59,6 +77,10 @@
         <option value="$PROJECT_DIR$/Chapter Two/comment.py" />
         <option value="$PROJECT_DIR$/Chapter Two/this.py" />
         <option value="$PROJECT_DIR$/Chapter Two/note.txt" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/Chapter Three/note.txt" />
+        <option value="$PROJECT_DIR$/Chapter Three/bicycle.py" />
+        <option value="$PROJECT_DIR$/Chapter 03/bicycle.py" />
       </list>
     </option>
   </component>
@@ -66,6 +88,9 @@
     <option name="x" value="679" />
     <option name="width" value="697" />
     <option name="height" value="776" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -89,17 +114,12 @@
               <item name="Python-Crash-Course" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python-Crash-Course" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Python-Crash-Course" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python-Crash-Course" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter Two" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -118,7 +138,43 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.said">
+  <component name="RunManager" selected="Python.bicycle (1)">
+    <configuration name="bicycle (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter 03" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Python Crash Course" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter 03/bicycle.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="bicycle" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter Three" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Python Crash Course" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter Three/bicycle.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="comment" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -132,42 +188,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Python Crash Course" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter Two/comment.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="favorite_number" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter Two" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Python Crash Course" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter Two/favorite_number.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="operation" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter Two" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Python Crash Course" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter Two/operation.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -210,19 +230,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.operation" />
-      <item index="1" class="java.lang.String" itemvalue="Python.favorite_number" />
-      <item index="2" class="java.lang.String" itemvalue="Python.comment" />
-      <item index="3" class="java.lang.String" itemvalue="Python.this" />
-      <item index="4" class="java.lang.String" itemvalue="Python.said" />
+      <item index="0" class="java.lang.String" itemvalue="Python.comment" />
+      <item index="1" class="java.lang.String" itemvalue="Python.this" />
+      <item index="2" class="java.lang.String" itemvalue="Python.said" />
+      <item index="3" class="java.lang.String" itemvalue="Python.bicycle" />
+      <item index="4" class="java.lang.String" itemvalue="Python.bicycle (1)" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.said" />
-        <item index="1" class="java.lang.String" itemvalue="Python.this" />
-        <item index="2" class="java.lang.String" itemvalue="Python.comment" />
-        <item index="3" class="java.lang.String" itemvalue="Python.favorite_number" />
-        <item index="4" class="java.lang.String" itemvalue="Python.operation" />
+        <item index="0" class="java.lang.String" itemvalue="Python.bicycle (1)" />
+        <item index="1" class="java.lang.String" itemvalue="Python.bicycle" />
+        <item index="2" class="java.lang.String" itemvalue="Python.said" />
+        <item index="3" class="java.lang.String" itemvalue="Python.this" />
+        <item index="4" class="java.lang.String" itemvalue="Python.comment" />
       </list>
     </recent_temporary>
   </component>
@@ -274,7 +294,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Chapter Two/note.txt">
+    <entry file="file://$PROJECT_DIR$/Chapter 02/note.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -282,131 +302,185 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter One/helloworld.py">
+    <entry file="file://$PROJECT_DIR$/Chapter 02/note.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 02/note.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 01/helloworld.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="130">
           <caret line="5" column="21" lean-forward="true" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter Two/hello_world.py">
+    <entry file="file://$PROJECT_DIR$/Chapter 02/hello_world.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
           <caret line="17" column="13" lean-forward="true" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter Two/simple_message.py">
+    <entry file="file://$PROJECT_DIR$/Chapter 02/simple_message.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="156">
           <caret line="6" column="14" lean-forward="true" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter Two/simple_messages.py">
+    <entry file="file://$PROJECT_DIR$/Chapter 02/simple_messages.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
           <caret line="9" column="14" lean-forward="true" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter One/note.txt">
+    <entry file="file://$PROJECT_DIR$/Chapter 01/note.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="104">
           <caret line="4" column="30" lean-forward="true" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter Two/name.py">
+    <entry file="file://$PROJECT_DIR$/Chapter 02/name.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
           <caret line="15" column="18" lean-forward="true" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter Two/apostrophe.py">
+    <entry file="file://$PROJECT_DIR$/Chapter 02/apostrophe.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
           <caret line="9" column="16" lean-forward="true" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter Two/personal.py">
+    <entry file="file://$PROJECT_DIR$/Chapter 02/personal.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="156">
           <caret line="6" column="37" lean-forward="false" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter Two/up-low.py">
+    <entry file="file://$PROJECT_DIR$/Chapter 02/up-low.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="260">
           <caret line="10" column="19" lean-forward="true" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter Two/blank.py">
+    <entry file="file://$PROJECT_DIR$/Chapter 02/blank.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="130">
           <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="9" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter Two/delete_blank.py">
+    <entry file="file://$PROJECT_DIR$/Chapter 02/delete_blank.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="208">
           <caret line="8" column="21" lean-forward="true" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter Two/birthday.py">
+    <entry file="file://$PROJECT_DIR$/Chapter 02/birthday.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="182">
           <caret line="7" column="30" lean-forward="false" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter Two/operation.py">
+    <entry file="file://$PROJECT_DIR$/Chapter 02/operation.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="208">
           <caret line="8" column="11" lean-forward="true" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter Two/favorite_number.py">
+    <entry file="file://$PROJECT_DIR$/Chapter 02/favorite_number.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="156">
           <caret line="6" column="53" lean-forward="true" selection-start-line="6" selection-start-column="53" selection-end-line="6" selection-end-column="53" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter Two/comment.py">
+    <entry file="file://$PROJECT_DIR$/Chapter 02/comment.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="156">
           <caret line="6" column="30" lean-forward="true" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter Two/said.py">
+    <entry file="file://$PROJECT_DIR$/Chapter 02/said.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
           <caret line="9" column="31" lean-forward="false" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter Two/this.py">
+    <entry file="file://$PROJECT_DIR$/Chapter 02/this.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="130">
           <caret line="5" column="11" lean-forward="true" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="21" lean-forward="false" selection-start-line="0" selection-start-column="21" selection-end-line="0" selection-end-column="21" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LICENSE">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1560">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitattributes">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 02/note.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="458">
+          <caret line="126" column="0" lean-forward="false" selection-start-line="126" selection-start-column="0" selection-end-line="126" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter Two/note.txt">
+    <entry file="file://$PROJECT_DIR$/Chapter 03/bicycle.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="11" column="8" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+        <state relative-caret-position="416">
+          <caret line="16" column="14" lean-forward="true" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 03/note.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="562">
+          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
           <folding />
         </state>
       </provider>
