@@ -2,28 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1fbd65f4-ae51-4db3-89c3-e2b755bb500b" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/Chapter 03/bicycle.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Chapter 03/note.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Chapter 03/cars.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Chapter 03/guest_list.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Chapter 03/motorcycles.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Chapter 03/name_list.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Chapter 03/own.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Chapter 03/place.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Chapter One/helloworld.py" afterPath="$PROJECT_DIR$/Chapter 01/helloworld.py" />
-      <change beforePath="$PROJECT_DIR$/Chapter One/note.txt" afterPath="$PROJECT_DIR$/Chapter 01/note.txt" />
-      <change beforePath="$PROJECT_DIR$/Chapter Two/apostrophe.py" afterPath="$PROJECT_DIR$/Chapter 02/apostrophe.py" />
-      <change beforePath="$PROJECT_DIR$/Chapter Two/birthday.py" afterPath="$PROJECT_DIR$/Chapter 02/birthday.py" />
-      <change beforePath="$PROJECT_DIR$/Chapter Two/blank.py" afterPath="$PROJECT_DIR$/Chapter 02/blank.py" />
-      <change beforePath="$PROJECT_DIR$/Chapter Two/comment.py" afterPath="$PROJECT_DIR$/Chapter 02/comment.py" />
-      <change beforePath="$PROJECT_DIR$/Chapter Two/delete_blank.py" afterPath="$PROJECT_DIR$/Chapter 02/delete_blank.py" />
-      <change beforePath="$PROJECT_DIR$/Chapter Two/favorite_number.py" afterPath="$PROJECT_DIR$/Chapter 02/favorite_number.py" />
-      <change beforePath="$PROJECT_DIR$/Chapter Two/hello_world.py" afterPath="$PROJECT_DIR$/Chapter 02/hello_world.py" />
-      <change beforePath="$PROJECT_DIR$/Chapter Two/name.py" afterPath="$PROJECT_DIR$/Chapter 02/name.py" />
-      <change beforePath="$PROJECT_DIR$/Chapter Two/note.txt" afterPath="$PROJECT_DIR$/Chapter 02/note.txt" />
-      <change beforePath="$PROJECT_DIR$/Chapter Two/operation.py" afterPath="$PROJECT_DIR$/Chapter 02/operation.py" />
-      <change beforePath="$PROJECT_DIR$/Chapter Two/personal.py" afterPath="$PROJECT_DIR$/Chapter 02/personal.py" />
-      <change beforePath="$PROJECT_DIR$/Chapter Two/said.py" afterPath="$PROJECT_DIR$/Chapter 02/said.py" />
-      <change beforePath="$PROJECT_DIR$/Chapter Two/simple_message.py" afterPath="$PROJECT_DIR$/Chapter 02/simple_message.py" />
-      <change beforePath="$PROJECT_DIR$/Chapter Two/simple_messages.py" afterPath="$PROJECT_DIR$/Chapter 02/simple_messages.py" />
-      <change beforePath="$PROJECT_DIR$/Chapter Two/this.py" afterPath="$PROJECT_DIR$/Chapter 02/this.py" />
-      <change beforePath="$PROJECT_DIR$/Chapter Two/up-low.py" afterPath="$PROJECT_DIR$/Chapter 02/up-low.py" />
-      <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change beforePath="$PROJECT_DIR$/Chapter 03/note.txt" afterPath="$PROJECT_DIR$/Chapter 03/note.txt" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -37,8 +23,8 @@
       <file leaf-file-name="note.txt" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Chapter 03/note.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="562">
-              <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+            <state relative-caret-position="1432">
+              <caret line="88" column="19" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -81,6 +67,13 @@
         <option value="$PROJECT_DIR$/Chapter Three/note.txt" />
         <option value="$PROJECT_DIR$/Chapter Three/bicycle.py" />
         <option value="$PROJECT_DIR$/Chapter 03/bicycle.py" />
+        <option value="$PROJECT_DIR$/Chapter 03/name_list.py" />
+        <option value="$PROJECT_DIR$/Chapter 03/own.py" />
+        <option value="$PROJECT_DIR$/Chapter 03/guest_list.py" />
+        <option value="$PROJECT_DIR$/Chapter 03/cars.py" />
+        <option value="$PROJECT_DIR$/Chapter 03/place.py" />
+        <option value="$PROJECT_DIR$/Chapter 03/motorcycles.py" />
+        <option value="$PROJECT_DIR$/Chapter 03/note.txt" />
       </list>
     </option>
   </component>
@@ -114,6 +107,11 @@
               <item name="Python-Crash-Course" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python-Crash-Course" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Python-Crash-Course" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python-Crash-Course" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter 03" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -138,8 +136,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.bicycle (1)">
-    <configuration name="bicycle (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.motorcycles">
+    <configuration name="cars" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -151,98 +149,98 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Python Crash Course" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter 03/bicycle.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter 03/cars.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="bicycle" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="guest_list" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter Three" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter 03" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Python Crash Course" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter Three/bicycle.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter 03/guest_list.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="comment" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="motorcycles" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter Two" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter 03" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Python Crash Course" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter Two/comment.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter 03/motorcycles.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="said" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="own" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter Two" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter 03" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Python Crash Course" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter Two/said.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter 03/own.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="this" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="place" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter Two" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter 03" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Python Crash Course" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter Two/this.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter 03/place.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.comment" />
-      <item index="1" class="java.lang.String" itemvalue="Python.this" />
-      <item index="2" class="java.lang.String" itemvalue="Python.said" />
-      <item index="3" class="java.lang.String" itemvalue="Python.bicycle" />
-      <item index="4" class="java.lang.String" itemvalue="Python.bicycle (1)" />
+      <item index="0" class="java.lang.String" itemvalue="Python.motorcycles" />
+      <item index="1" class="java.lang.String" itemvalue="Python.own" />
+      <item index="2" class="java.lang.String" itemvalue="Python.guest_list" />
+      <item index="3" class="java.lang.String" itemvalue="Python.cars" />
+      <item index="4" class="java.lang.String" itemvalue="Python.place" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.bicycle (1)" />
-        <item index="1" class="java.lang.String" itemvalue="Python.bicycle" />
-        <item index="2" class="java.lang.String" itemvalue="Python.said" />
-        <item index="3" class="java.lang.String" itemvalue="Python.this" />
-        <item index="4" class="java.lang.String" itemvalue="Python.comment" />
+        <item index="0" class="java.lang.String" itemvalue="Python.motorcycles" />
+        <item index="1" class="java.lang.String" itemvalue="Python.place" />
+        <item index="2" class="java.lang.String" itemvalue="Python.cars" />
+        <item index="3" class="java.lang.String" itemvalue="Python.guest_list" />
+        <item index="4" class="java.lang.String" itemvalue="Python.own" />
       </list>
     </recent_temporary>
   </component>
@@ -265,14 +263,14 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1669107" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1669107" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="R Packages" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="R Graphics" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3265625" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.321875" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -289,12 +287,23 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Chapter 02/note.txt">
+    <entry file="file://$PROJECT_DIR$/Chapter 03/note.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 03/note.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -306,7 +315,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -314,7 +322,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 02/note.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -465,22 +479,62 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="458">
           <caret line="126" column="0" lean-forward="false" selection-start-line="126" selection-start-column="0" selection-end-line="126" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Chapter 03/bicycle.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="10" column="17" lean-forward="true" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 03/name_list.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="416">
-          <caret line="16" column="14" lean-forward="true" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
-          <folding />
+          <caret line="16" column="32" lean-forward="true" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 03/own.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="10" column="40" lean-forward="true" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 03/guest_list.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="728">
+          <caret line="28" column="66" lean-forward="true" selection-start-line="28" selection-start-column="66" selection-end-line="28" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 03/cars.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 03/place.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 03/motorcycles.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Chapter 03/note.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="562">
-          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+        <state relative-caret-position="1432">
+          <caret line="88" column="19" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
           <folding />
         </state>
       </provider>
