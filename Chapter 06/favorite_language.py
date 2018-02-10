@@ -3,12 +3,12 @@
 # Created by: Wenzurk
 # Created on: 2018/2/8
 
-favorite_languages = {
-    'jen': 'Python',
-    'sarah': 'C',
-    'edward': 'ruby',
-    'phil': 'Python',
-}
+# favorite_languages = {
+#     'jen': 'Python',
+#     'sarah': 'C',
+#     'edward': 'ruby',
+#     'phil': 'Python',
+# }
 
 # friends = ['phil', 'sarah']
 # print("Sarah's favorite language is " + favorite_languages['sarah'].title() + ".")
@@ -32,9 +32,21 @@ favorite_languages = {
 # for language in favorite_languages.values():
 # for language in set(favorite_languages.values()):
 #     print(language.title())
-name_list = ['jen', 'sarah', 'alex', 'wenzurk']
-for name in name_list:
-    if name in favorite_languages.keys():
-        print("Thank you very much!")
-    else:
-        print("Would you like this?")
+# name_list = ['jen', 'sarah', 'alex', 'wenzurk']
+# for name in name_list:
+#     if name in favorite_languages.keys():
+#         print("Thank you very much!")
+#     else:
+#         print("Would you like this?")
+
+favorite_languages = {
+    'jen': ['python', 'ruby'],
+    'sarah': ['C'],
+    'edward': ['ruby', 'go'],
+    'phil': ['python', 'haskell'],
+}
+
+for name,languages in favorite_languages.items():
+    print("\n" + name.title() + "'s favorite languages are:")
+    for language in languages:
+        print("\t" + language.title())
