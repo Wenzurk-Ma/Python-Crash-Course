@@ -28,7 +28,13 @@ favorite_languages = {
 # for name in sorted(favorite_languages.keys()):
 #     print(name.title() + ", thank you for taking the poll.")
 
-print("The following languages have been mentioned: ")
+# print("The following languages have been mentioned: ")
 # for language in favorite_languages.values():
-for language in set(favorite_languages.values()):
-    print(language.title())
+# for language in set(favorite_languages.values()):
+#     print(language.title())
+name_list = ['jen', 'sarah', 'alex', 'wenzurk']
+for name in name_list:
+    if name in favorite_languages.keys():
+        print("Thank you very much!")
+    else:
+        print("Would you like this?")
